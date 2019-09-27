@@ -1,7 +1,7 @@
 == Chapter VII.
 
 [.chapter-synopsis]
-* An abstract of some of John Burnyeat`'s letters to his brother, T. A., of London, in continuation of his travels for the last eight years of his life, being all in his own hand-writing.
+* An abstract of some of John Burnyeat`'s letters to his brother, T. A., of London, in continuation of his travels for the last eight years of his life, being all in his own handwriting.
 
 Dublin, the twenty-eighth of the eighth month,
 1682.--I am arrived here safely from Cumberland,
@@ -11,7 +11,7 @@ it being the general meeting; it was a most pleasant day,
 the meeting out of doors very large, Friends so generally came in.
 And indeed the Lord`'s power was with us; and my heart was greatly enlarged unto Friends.
 The fourth-day following I was at Sedberg;
-the meeting was without doors by the meetinghouse,
+the meeting was without doors by the meeting-house,
 the doors being shut up by the officers, it was quiet and large.
 The fifth-day I was at Grayrigg; sixth-day at the Height; first-day at Swarthmore;
 and on the third-day at Hawkshead, and had a blessed meeting; my heart was comforted.
@@ -59,6 +59,7 @@ I have been in the counties of Wicklow and Carlow, and the Queen`'s county,
 and at the Moate, and Edenderry: and tomorrow I intend, if the Lord will,
 to go forth again to the province meeting at Rosenallis.
 
+[.offset]
 The following lively Epistle is without a specific address.
 
 [.embedded-content-document.epistle]
@@ -480,7 +481,7 @@ And such who mind this, will be ready to offer up their earthly substance,
 and also themselves, into his hand and will, out of which no man is able to pluck.
 And surely,
 in this day there is no true rest or satisfaction to the souls or spirits of Friends,
-but as they get hither m the faith with their hearts and spirits:
+but as they get hither in the faith with their hearts and spirits:
 and when we are here spiritually.
 Oh, this holy shield, how doth it defend!
 Oh, the holy Rock, how do we sit under the shadow of it!
@@ -1017,7 +1018,7 @@ there the Lord will not delight to dwell, there is not room; nay,
 he will not delight to appear there,
 because it will be his grief and an oppression unto him.
 Was it not so of old, when he took up his complaint against both Judah and Israel?
-as you may see, Amos 2.
+as you may see, Amos 2,
 how the Lord pleads with them, and threatens them,
 what he would bring upon them for their sins, which he reckons up against them;
 and withal to aggravate their crimes, as he might justly do, he also tells them,
@@ -1104,7 +1105,7 @@ John Burnyeat.
 
 Dublin,
 the eighteenth of the ninth month.--We have had
-a comfortable season this halfyear`'s meeting,
+a comfortable season this half-year`'s meeting,
 quiet and peaceable, and in love and unity among ourselves;
 so that we have cause to be truly thankful unto the Lord for that mercy,
 amongst all other mercies we enjoy from his blessed hand.
@@ -1184,12 +1185,12 @@ The sense whereof was a great satisfaction to me, because I know the glory is th
 in the light forever.
 And now poor lamb, it is her gain, though your and our loss.
 For considering her years, she was a modest and good example;
-and as she said to me at that season, She was never inclined to vanity.
+and as she said to me at that season, she was never inclined to vanity.
 I perceived her care was sometimes greatly for you, fearing your exercise would be great.
 Well, I must needs consider,
 that the loss of such a dear child cannot but come very near tender parents;
 yet you may be comforted in a satisfaction of her well-being, and so rest;
-and even say with David, We may go to her, but she cannot come to us;
+and even say with David, we may go to her, but she cannot come to us;
 and so comfort your hearts in the Lord, and rest in his will.
 
 And dear R., this may find thee something better in health,
@@ -1312,7 +1313,7 @@ Wexford, the fifth month.--I have had a very comfortable journey among Friends,
 and for the most part very large meetings, beyond my expectation, and very peaceable,
 viz., on the third-day at Tipperary,
 and fourth-day at John Fennel`'s. But at Tipperary I
-had like to have been got hold of by the rapparees,
+had like to have been got hold of by the Rapparees,
 and lost my mare; but I got away and escaped, and rode back into the town.
 Last first-day we had a very large meeting at Edward Gooding`'s;
 it was their monthly meeting.
@@ -1341,7 +1342,7 @@ Dublin, the twenty-fifth of the first month,
 amongst Friends throughout both Leinster and Munster,
 which was a great satisfaction both to me and them.
 Friends are generally well, and our meetings are full,
-and we enjoy them in quietness as formeiiy:
+and we enjoy them in quietness as formerly:
 and the Lord`'s presence is with us to our great comfort,
 which is valued by all who are rightly sensible of it, as a great mercy.
 
@@ -1428,7 +1429,7 @@ So that he that killed an ox, was as if he slew a man, and he that sacrificed a 
 as if he cut off a dog`'s neck, and he that offered an oblation,
 as if he offered swines`' blood, and he that burned incense, as if he blessed an idol;
 and all this was because they chose their own ways,
-and their souls did delight in their abominations, as you may read, Isaiah Ixvi.
+and their souls did delight in their abominations, as you may read, Isaiah 66.
 3, 4. Therefore were all their performances rejected of the Lord,
 and he brought their fear upon them; because when he called, they would not answer,
 when he spoke, they would not hear, but did evil before his eyes,
@@ -1597,9 +1598,9 @@ and that fast cannot be accompanied with cruelty;
 there is no smiting with the fist of wickedness, nor bringing oppression over the just,
 where Christ is owned and followed, as the Lord hath appointed, as a witness,
 a leader and a commander, for which he is given to the people,
-as you may read in Isaiah 4:4. But where these evils are brought forth,
+as you may read in Isaiah 55:4. But where these evils are brought forth,
 as the fruits of any fast, by those that appoint or pretend to keep a fast,
-is it not like unto Jezabel`'s fast,
+is it not like unto Jezebel`'s fast,
 that she caused the elders and nobles of the city to proclaim,
 where the just man was witnessed against, condemned, and stoned to death for nothing,
 but because he could not give or sell his inheritance away, which the Lord had given him?
@@ -1617,13 +1618,12 @@ This is the way the Scripture largely testifies,
 wherein man may come to be accepted, and the wrath of God appeased,
 and his judgments removed, and so the right desire answered.
 
-[.signed-section-closing]
 From a lover of peace and righteousness, who truly seeks the good of all men,
 
 [.signed-section-signature]
 John Burnyeat.
 
-[.signed-section-context-close]
+[.postscript]
 Written in Barbados, about the 29th of the eleventh month, 1670,
 upon the occasion of a fast, that was pretended to by the people of the island,
 because of a great sickness that was upon them, whereof many died;

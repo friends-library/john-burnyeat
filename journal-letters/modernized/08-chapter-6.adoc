@@ -1,6 +1,10 @@
 == Chapter VI.
 
 [.chapter-synopsis]
+* Visits most of the meetings in that country: returns to England, visits Westmoreland Quarterly meeting
+* Case of John Wilkinson and John Story, 1675
+* Travels into other parts
+* Troubles respecting John Wilkinson and John Story.
 * Selections from the letters of John Burnyeat, in continuation of his travels, from 1673 to 1690
 * His marriage in 1683
 * His imprisonment in Dublin
@@ -521,7 +525,10 @@ John Burnyeat.
 [.blurb]
 === A paper of John Burnyeat`'s, that came to hand since his works were printed.
 
-The twenty-seventh of the eighth month, 1667.--In the morning,
+[.signed-section-context-open]
+The twenty-seventh of the Eighth month, 1667.
+
+In the morning,
 as I was laying upon my bed,
 and my soul greatly afflicted under the view and consideration of the state of things,
 as it was among Friends in the city of Bristol and some parts adjacent,
@@ -594,7 +601,7 @@ as the ancients did of old, and rejoice in the God of our salvation,
 who is our strength and tower of safety forever.
 
 Dear Friends, great and large has the love and kindness of our God been unto us,
-who where strangers, aliens and enemies in our minds unto him, in this,
+who were strangers, aliens and enemies in our minds unto him, in this,
 that he has called and chosen us to be his people,
 and to bear witness unto his appearance, and the shinings forth of his light,
 and of the glory of his presence, whereby he has richly comforted our souls,
@@ -713,7 +720,7 @@ wherein I remain one with you, and am your brother in the Truth,
 John Burnyeat.
 
 [.signed-section-context-close]
-London, the 10th of the third month, 1667
+London, the 10th of the Third month, 1667
 
 --
 

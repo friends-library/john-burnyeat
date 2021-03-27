@@ -8,7 +8,7 @@ ____
 The righteous shall be in everlasting remembrance.
 ____
 
-[#testimony-g-f.style-blurb, short="Testimony from George Fox"]
+[.style-blurb, short="Testimony from George Fox"]
 == A Testimony Concerning the Life and Death of our Dear Friend and Brother in the Lord, John Burnyeat
 
 [.emphasized.centered]

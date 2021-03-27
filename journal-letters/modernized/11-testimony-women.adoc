@@ -1,4 +1,4 @@
-[#testimony-women.style-blurb, short="Testimony of Cumberland Women Friends"]
+[.style-blurb, short="Testimony of Cumberland Women Friends"]
 == The Testimony of several women Friends in Cumberland.
 
 In brokenness of heart and tenderness of our spirits we have this

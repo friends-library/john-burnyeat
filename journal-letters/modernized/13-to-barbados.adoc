@@ -1,4 +1,4 @@
-[#to-Barbados.style-blurb, short="To the Rulers, Ministers, and People of Barbados"]
+[.style-blurb, short="To the Rulers, Ministers, and People of Barbados"]
 == To the rulers, ministers, and people of the Island of Barbados, who see and take notice in any measure of the hand of the Lord that is upon them, and have desires in them to have his judgments removed.
 
 [.salutation]

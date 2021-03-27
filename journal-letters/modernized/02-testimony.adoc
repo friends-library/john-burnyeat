@@ -1,4 +1,4 @@
-[#testimony-morning-meeting.style-blurb, short="Testimony of the Meeting of Ministers and Elders"]
+[.style-blurb, short="Testimony of the Meeting of Ministers and Elders"]
 == An Account by way of Testimony Concerning our Dear friend and Brother John Burnyeat.
 
 We will leave to others the account of his birth and convincement,

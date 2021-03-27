@@ -1,4 +1,4 @@
-[#testimony-ireland.style-blurb, short="Testimony of Friends in Ireland"]
+[.style-blurb, short="Testimony of Friends in Ireland"]
 == A Testimony of several Friends in Ireland, in whose hearts it sprung, and who gave it forth in the behalf of our dear brother John Burnyeat
 
 As for our dear friend and worthy brother in the Lord, John Burnyeat, late of Dublin,
